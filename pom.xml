@@ -16,7 +16,7 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
- <sonar.projectKey> jonata2020_papw </sonar.projectKey>
+ <java.version>1.8</java.version><sonar.projectKey> jonata2020_papw </sonar.projectKey>
   <organização do sonar> jonata2020 </ organização dosonar>
   <sonar.host.url> https://sonarcloud.io </sonar.host.url>
   <sonar.login> 5033ced0a4553d5e67af2eb67e9e78af745b68eb </sonar.login>	</properties>
