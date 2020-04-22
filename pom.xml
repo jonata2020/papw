@@ -17,11 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>papw</sonar.projectKey>
-		<sonar.organization>rodrigofujioka</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>b372b734a4ee72cf170d1b181db6474c5d7f1844</sonar.login>
-
+		<sonar.projectKey> jonata2020_papw </sonar.projectKey>
+  <organização do sonar> jonata2020 </ organização dosonar>
+  <sonar.host.url> https://sonarcloud.io </sonar.host.url>
+  <sonar.login> 346de6eb39ee3601d5dc4be09d14a24d569311b7 </sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
